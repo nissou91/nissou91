@@ -24,7 +24,7 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=nissou91&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
+  <br><br><br><br><br><br><br><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=nissou91&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
