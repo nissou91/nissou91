@@ -4,6 +4,8 @@
 ![Recent activity charts](/metrics.plugin.habits.charts.svg)
 ### Issues and Pull Requests
 ![Issues and PRs](/metrics.plugin.followup.indepth.svg)
+### Notable Contributions
+![Notable Contributions](/metrics.plugin.notable.indepth.svg)
 ### Most Used Languages
 ![Most used languages](/metrics.plugin.languages.indepth.svg)
 
