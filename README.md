@@ -1,5 +1,7 @@
 ### Summary
 ![Metrics](/github-metrics.svg)
+### Recent activity stats
+![Recent activity charts](/metrics.plugin.habits.charts.svg)
 ### Most used languages
 ![Most used languages](/metrics.plugin.languages.indepth.svg)
 
