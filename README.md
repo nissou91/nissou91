@@ -6,6 +6,11 @@
 ![Issues and PRs](/metrics.plugin.followup.indepth.svg)
 ### Most Used Languages
 ![Most used languages](/metrics.plugin.languages.indepth.svg)
+<p float="left">
+  <img src="/metrics.plugin.habits.charts.svg" width="100" />
+  <img src="/metrics.plugin.followup.indepth.svg" width="100" /> 
+  <img src="/metrics.plugin.languages.indepth.svg" width="100" />
+</p>
 
 <!--
 **nissou91/nissou91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
