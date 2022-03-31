@@ -33,6 +33,8 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
 <hr>
 
 
+<img align='left' src="/metrics.plugin.habits.charts.svg" width="250" height="250">
+
 ### Recent Activity Stats
 ![Recent activity charts](/metrics.plugin.habits.charts.svg)
 ### Issues and Pull Requests
