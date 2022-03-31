@@ -1,8 +1,10 @@
 ### Summary
 ![Metrics](/github-metrics.svg)
-### Recent activity stats
+### Recent Activity Stats
 ![Recent activity charts](/metrics.plugin.habits.charts.svg)
-### Most used languages
+### Issues and Pull Requests
+![Issues and PRs](/metrics.plugin.followup.indepth.svg)
+### Most Used Languages
 ![Most used languages](/metrics.plugin.languages.indepth.svg)
 
 <!--
