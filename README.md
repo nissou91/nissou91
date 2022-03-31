@@ -33,8 +33,9 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
 <hr>
 
 <h2 align="center">⚡ Most Used Languages ⚡</h2>
-<img align='right' src="/metrics.plugin.languages.indepth.svg" width="350" height="350">
-
+<p align=center>
+![Most used languages](/metrics.plugin.languages.indepth.svg)
+</p>
 
 <!--
 ### Summary
