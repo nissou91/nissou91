@@ -1,5 +1,6 @@
-### Hi there 👋
+### Summary
 ![Metrics](/github-metrics.svg)
+### Most used languages
 ![Most used languages](/metrics.plugin.languages.indepth.svg)
 
 <!--
