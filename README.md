@@ -10,6 +10,11 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
 - 🔭 I’m currently working on **Python Programming Language** and improving my skills in **unit/integration testing**
 - 🌱 I’m currently learning and acquiring more knowledge on **Asterisk** tool
 
+
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=nissou91&theme=rogue)
+
 <!--
 ### Summary
 ![Metrics](/github-metrics.svg)
