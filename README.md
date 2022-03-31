@@ -32,17 +32,9 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
 
 <hr>
 
+<h2 align="center">⚡ Most Used Languages ⚡</h2>
+<img align='right' src="/metrics.plugin.languages.indepth.svg" width="350" height="350">
 
-<img align='left' src="/metrics.plugin.habits.charts.svg" width="250" height="250">
-
-### Recent Activity Stats
-![Recent activity charts](/metrics.plugin.habits.charts.svg)
-### Issues and Pull Requests
-![Issues and PRs](/metrics.plugin.followup.indepth.svg)
-### Notable Contributions
-![Notable Contributions](/metrics.plugin.notable.indepth.svg)
-### Most Used Languages
-![Most used languages](/metrics.plugin.languages.indepth.svg)
 
 <!--
 ### Summary
