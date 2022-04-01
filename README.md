@@ -7,7 +7,7 @@
 <h2 align="center">⚡ Summary ⚡</h2>
 
 I am a backend software developer working at <a  href="https://wazo.io/"> Wazo Communications Inc.</a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPopHtsnOHvxjn__a1-3xYVz62kq8AF6Tn2YFSswzgzLGkVWIxzV5UMcIC3DwMRCBAMg&usqp=CAU" width="50px"> since November 2021. I hold a master degree in Information Systems Security (2019) at <a  href="https://concordia.ca/"> Concordia University</a> <img src="https://literacy.concordia.ca/img/cslp_logo_1.png" width="50px">. I am always eager and curious explore new technologies and learn new skills and programming tips. <br>
-<img align='right' src="https://scontent.fyto3-1.fna.fbcdn.net/v/t39.30808-6/277538012_3136415019903799_6963231635827485754_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=bz64yL-zpMQAX8_vIa3&tn=nkxN-Xql92XNZJF-&_nc_ht=scontent.fyto3-1.fna&oh=00_AT_SQh3A9RpdEhPA14spjgCzvDkSpqPJcSfvyl98VHoxXQ&oe=624BE1C1" width="250" height="250">
+<img align='right' src="https://scontent.fyto3-1.fna.fbcdn.net/v/t39.30808-6/277744328_3139105102968124_6703852101604665888_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=YZ0Ux4nU7BoAX-z3IWR&tn=GiikhCE3yQsagYTY&_nc_ht=scontent.fyto3-1.fna&oh=00_AT9HcKgJOfzMowZJgnTcUXkHv-5KhKs3vmejDoi4JkN1MA&oe=624B9B71" width="250" height="250">
 
 - 🔭 I’m currently working on **Python Programming Language** and improving my skills in **unit/integration testing**
 - 🌱 I’m currently learning and acquiring more knowledge on **Asterisk** tool
