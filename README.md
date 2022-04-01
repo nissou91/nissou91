@@ -12,7 +12,7 @@ I am a backend software developer working at <a  href="https://wazo.io/"> Wazo C
 - 🌱 I’m currently learning and acquiring more knowledge on **Asterisk** tool
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <h2 align="center">⚡ My Statistics ⚡</h2>
 <br>
