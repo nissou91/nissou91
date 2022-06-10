@@ -74,14 +74,5 @@ class Social:
       {
         'LinkedIn': 'Aniss Chohra',
       },
-      {
-        'Facebook': 'Aniss Chohra',
-      },
-      {
-        'Twitter': '@ChohraAniss',      
-      },
-      {
-        'SnapChat': 'anisschohra2021',
-      },
     ]
 ```
