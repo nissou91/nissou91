@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nissou91)
+![](https://komarev.com/ghpvc/?username=nissou91&color=ff4500)
 ```python
 class Bio:
   def __init__(self, first_name, last_name, company, location):
